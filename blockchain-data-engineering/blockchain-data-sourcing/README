@@ -1,0 +1,21 @@
+# Blockchain Data Sourcing
+
+This repo demonstrates Python-based data sourcing pipelines for blockchain networks like Berachain and Story.
+
+## Goals
+- Connect to blockchain RPC endpoints
+- Pull block and transaction data
+- Transform JSON responses into tabular format
+- Prepare datasets for loading into warehouses like BigQuery
+
+## Chains Covered
+- Berachain
+- Story Network
+
+## Tech Stack
+- Python
+- Requests library
+- Pandas
+- Matplotlib
+
+## Example
