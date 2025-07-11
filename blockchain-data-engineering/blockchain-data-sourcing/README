@@ -11,11 +11,14 @@ This repo demonstrates Python-based data sourcing pipelines for blockchain netwo
 ## Chains Covered
 - Berachain
 - Story Network
+- The Graph
+- Oasis
+- Dymension
+- Alora
+- Polgyon
 
 ## Tech Stack
 - Python
 - Requests library
 - Pandas
-- Matplotlib
-
-## Example
+- GraphQL
